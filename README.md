@@ -51,6 +51,7 @@ https://github.com/tisyang/ntripcaster/releases/
 ```json
 {
 	"listen_addr":"0.0.0.0",
+	"domain": "www.example.com"
 	"listen_port": 2101,
 	"max_client": 0,
 	"max_source": 0,
